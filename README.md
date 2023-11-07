@@ -3,7 +3,8 @@
 #### Technical Skills: Python, AWS, Spinnaker, Jenkins, TensorFlow 
 
 ## Education
-- M.S., Data Science | University of California, Irvine (_December 2024_)<br>&nbsp 			        		
+- M.S., Data Science | University of California, Irvine (_December 2024_)
+			        		
 - B.S., Computer Science | University of San Diego (_May 2023_)
 
 ## Work Experience
