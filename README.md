@@ -2,8 +2,9 @@
 
 #### Technical Skills: Python, AWS, Spinnaker, Jenkins, TensorFlow 
 
-## Education
-- M.S., Data Science | University of California, Irvine (_December 2024_)
+## Education							       		
+- M.S., Data Science | University of California at Irvine (_December 2024_)	 			        		
+- B.S., Computer Science | University of San Diego (_May 2023_)
 
 ## Work Experience
 **Software Engineering Intern @ Armory Inc. (_July 2022 - September 2023_)**
