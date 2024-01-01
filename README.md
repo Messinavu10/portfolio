@@ -21,17 +21,15 @@
 Led this senior Capstone project in collaboration with Transact Campus to create a secure identity platform for students on campus utilizing Microsoft Azure’s verifiable credentials.
 I designed a user-friendly web login portal in **Node.js** that makes calls to an Azure **SQL** database that allows for RBAC for different webpages and actions. Also utilized **Postman** to test http calls to gain access tokens for credentials made through **Microsoft Azure** services; eventually used Node.js to implement this process within the application.
 
-### Painting vs. Photograph Classifier
-[Repository] (put link here)
-
-Designed and built a **python** program that uses machine learning algorithms such as perceptron and back propagation to classify whether a given input in a photograph or a painting.Was reponsible for manipulating the pixels of each individual image and used matrix operations for accurate results. Achieved over 80% accuracy with the learning algorithm.
-
-![Accuracy graph](/assets/images/1pattern.png)
-![Accuracy graph](/assets/images/2pattern.png)
-
-
 ### Compression and Decompression algorithm
 [Repository](https://github.com/Messinavu10/Compression-and-Decompression)
 
 Programmed a Compression and Decompression algorithm for files using Hash Tables in Java. Compression reads a text file and shortens it to its binary components to reduce storage size.
 Decompression does the opposite and returns file to original state. Hash Table was used to manage and retrieve entries from files that are being iterated and contain various get and set methods.
+
+### Painting vs. Photograph Classifier
+
+Designed and built a **python** program that uses machine learning algorithms such as perceptron and back propagation to classify whether a given input in a photograph or a painting.Was reponsible for manipulating the pixels of each individual image and used matrix operations for accurate results. Achieved over 80% accuracy with the learning algorithm.
+
+![Accuracy graph](/assets/images/1pattern.png)
+![Accuracy graph](/assets/images/2pattern.png)
