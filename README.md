@@ -27,6 +27,8 @@ I designed a user-friendly web login portal in **Node.js** that makes calls to a
 Designed and built a **python** program that uses machine learning algorithms such as perceptron and back propagation to classify whether a given input in a photograph or a painting.Was reponsible for manipulating the pixels of each individual image and used matrix operations for accurate results. Achieved over 80% accuracy with the learning algorithm.
 
 ![Accuracy graph](/assets/images/1pattern.png)
+![Accuracy graph](/assets/images/2pattern.png)
+
 
 ### Compression and Decompression algorithm
 [Repository](https://github.com/Messinavu10/Compression-and-Decompression)
