@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Science Student
 
 #### Technical Skills: Python, AWS, Spinnaker, Jenkins, TensorFlow 
 
