@@ -1,4 +1,18 @@
-title: Naveen Kumar Rajesh
-logo: /assets/images/Photo.png
+title: Naveen Kumar Rajesh 
+logo: "/assets/images/Photo.png"
 show_downloads: true
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  
+  <p align="center">
+  <a href="mailto:rajeshn@uci.edu">Email</a> |
+  <a href="https://www.linkedin.com/in/messinavu10/">LinkedIn</a> |
+  <a href="https://github.com/Messinavu10">GitHub</a> |
+    <a href="pdf/resume2.pdf">Resume</a>
+  </p>
+  
+  I am currently a full-time graduate student pursuing an M.S. in Data Science at UCI with 2 years of experience in DevOps and Data Analytics.
+  <br><br>
+  I have an MS degree in Data Science from UCI and BS in Computer Science from University of San Diego. I am passionate about developing machine learning algorithms that can create a positive impact in people's lives!
+  <br><br>
+  
 theme: jekyll-theme-minimal
