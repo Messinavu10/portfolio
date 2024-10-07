@@ -2,6 +2,21 @@
 
 ---
 
+### Emotion Detection System
+
+Developed an emotion detection system for speech audio using a multi-layer convolutional neural network built with TensorFlow, achieving 70% accuracy. Trained the model on the RAVDESS and CREMA datasets, applying techniques like data augmentation, feature extraction (zero crossing rate, MFCC, root-mean-square value), and thorough cross-validation to improve performance and prevent overfitting.
+
+<img src="assets/images/eds_metrics.png?raw=true"/>
+
+***Technical skills:*** Convolution Neural Networks, Cross-Validation, Audio Data Preprocessing
+
+***Tools:*** Python, Tensorflow, NumPy, Pandas
+
+[![Open Code](https://img.shields.io/badge/Jupyter-Open_Files-red?logo=Jupyter)](https://github.com/Messinavu10/Emotion-Detection-System)
+[![Open Report](https://img.shields.io/badge/PDF-View_Report-red?logo=MicrosoftWord)](pdf/eds_report.pdf)
+
+---
+
 ### Painting vs. Photograph Classifier
 
 Designed and built a **python** program that uses machine learning algorithms such as perceptron and back propagation to classify whether a given input in a photograph or a painting.Was reponsible for manipulating the pixels of each individual image and used matrix operations for accurate results. Achieved over 80% accuracy with the learning algorithm.
@@ -9,7 +24,7 @@ Designed and built a **python** program that uses machine learning algorithms su
 <img src="assets/images/1pattern.png?raw=true"/>
 <img src="assets/images/2pattern.png?raw=true"/>
 
-***Technical skills:*** Perceptrons, Back-propagation, Matrix-manipulation
+***Technical skills:*** Perceptrons, Back-Propagation, Matrix-Manipulation
 
 ***Tools:*** Python, Tensorflow, NumPy, Pandas
 
