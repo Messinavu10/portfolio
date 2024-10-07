@@ -6,7 +6,7 @@
 
 Developed an emotion detection system for speech audio using a multi-layer convolutional neural network built with TensorFlow, achieving 70% accuracy. Trained the model on the RAVDESS and CREMA datasets, applying techniques like data augmentation, feature extraction (zero crossing rate, MFCC, root-mean-square value), and thorough cross-validation to improve performance and prevent overfitting.
 
-<img src="assets/images/eds_metrics.png?raw=true" width="800" height="auto"/>
+<img src="assets/images/eds_metrics.png?raw=true" width="1300" height="auto"/>
 
 
 ***Technical skills:*** Convolution Neural Networks, Cross-Validation, Audio Data Preprocessing
