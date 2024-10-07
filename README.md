@@ -6,7 +6,7 @@
 
 Developed an emotion detection system for speech audio using a multi-layer convolutional neural network built with TensorFlow, achieving 70% accuracy. Trained the model on the RAVDESS and CREMA datasets, applying techniques like data augmentation, feature extraction (zero crossing rate, MFCC, root-mean-square value), and thorough cross-validation to improve performance and prevent overfitting.
 
-<img src="assets/images/eds_metrics.png?raw=true"/>
+<img src="assets/images/eds_metrics.png?raw=true" style="width:80%;"/>
 
 ***Technical skills:*** Convolution Neural Networks, Cross-Validation, Audio Data Preprocessing
 
@@ -36,6 +36,8 @@ Designed and built a **python** program that uses machine learning algorithms su
 
 Led this senior Capstone project in collaboration with Transact Campus to create a secure identity platform for students on campus utilizing Microsoft Azure’s verifiable credentials.
 I designed a user-friendly web login portal in **Node.js** that makes calls to an Azure **SQL** database that allows for RBAC for different webpages and actions. Also utilized **Postman** to test http calls to gain access tokens for credentials made through **Microsoft Azure** services; eventually used Node.js to implement this process within the application.
+
+<img src="assets/images/vc_flow.png?raw=true"/>
 
 ***Technical skills:*** REST APIs, SQL, RBAC
 
