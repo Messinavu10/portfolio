@@ -20,7 +20,7 @@ Developed an emotion detection system for speech audio using a multi-layer convo
 
 ### Painting vs. Photograph Classifier
 
-Designed and built a **python** program that uses machine learning algorithms such as perceptron and back propagation to classify whether a given input in a photograph or a painting.Was reponsible for manipulating the pixels of each individual image and used matrix operations for accurate results. Achieved over 80% accuracy with the learning algorithm.
+Designed and built a python program that uses machine learning algorithms such as perceptron and back propagation to classify whether a given input in a photograph or a painting. Was reponsible for manipulating the pixels of each individual image and used matrix operations for accurate results. Achieved over 80% accuracy with the learning algorithm.
 
 <img src="assets/images/1pattern.png?raw=true"/>
 <img src="assets/images/2pattern.png?raw=true"/>
@@ -36,7 +36,7 @@ Designed and built a **python** program that uses machine learning algorithms su
 ### Decentralized Identity System
 
 Led this senior Capstone project in collaboration with Transact Campus to create a secure identity platform for students on campus utilizing Microsoft Azure’s verifiable credentials.
-I designed a user-friendly web login portal in **Node.js** that makes calls to an Azure **SQL** database that allows for RBAC for different webpages and actions. Also utilized **Postman** to test http calls to gain access tokens for credentials made through **Microsoft Azure** services; eventually used Node.js to implement this process within the application.
+I designed a user-friendly web login portal in Node.js that makes calls to an Azure SQL database that allows for RBAC for different webpages and actions. Also utilized Postman to test http calls to gain access tokens for credentials made through Microsoft Azure services; eventually used Node.js to implement this process within the application.
 
 <img src="assets/images/vc_flow.png?raw=true"/>
 
