@@ -1,8 +1,23 @@
 #  Naveen Kumar Rajesh's Portfolio
 
 ---
+### ROI and Efficiency Assessment for Microsoft’s Support Knowledge Base 
 
-### Emotion Detection System
+**Project overview:** Collaborated with Microsoft to evaluate the transition to a Single-Source Knowledge Base (SSKB) for internal support content. Analyzed 60,000 support cases using statistical models, identifying a 12% reduction in investigation time and a 65% decrease in investigation clicks. Developed Generalized Linear Models (GLMs) and performed exploratory data analysis (EDA) to assess operational efficiency and customer satisfaction, delivering actionable recommendations to non-technical stakeholders.
+
+<img src="assets/images/MIT-Capstone.png?raw=true" width="1300" height="auto"/>
+<img src="assets/images/MIC-Capstone.png?raw=true" width="1300" height="auto"/>
+
+
+***Technical skills:*** Statistical Modeling, Generalized Linear Models (GLMs), Exploratory Data Analysis, Data Visualization
+
+***Tools:*** Python, Pandas, NumPy, Matplotlib, Scikit-learn
+
+[![Open Report](https://img.shields.io/badge/PDF-View_Report-red?logo=MicrosoftWord)](pdf/Capstone.pdf)
+
+---
+
+### Speech Emotion Detection Using Neural Networks 
 
 **Project overview:** Developed an emotion detection system for speech audio using a multi-layer convolutional neural network built with TensorFlow, achieving 70% accuracy. Trained the model on the RAVDESS and CREMA datasets, applying techniques like data augmentation, feature extraction (zero crossing rate, MFCC, root-mean-square value), and thorough cross-validation to improve performance and prevent overfitting.
 
@@ -18,7 +33,7 @@
 
 ---
 
-### Painting vs. Photograph Classifier
+### Painting and Photograph Classification using Neural Networks 
 
 **Project overview:** Designed and built a python program that uses machine learning algorithms such as perceptron and back propagation to classify whether a given input in a photograph or a painting. Was reponsible for manipulating the pixels of each individual image and used matrix operations for accurate results. Achieved over 80% accuracy with the learning algorithm.
 
